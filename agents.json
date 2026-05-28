@@ -1,0 +1,122 @@
+{
+  "_instructions": {
+    "how_to_add_member": "Copy one of the entries below. Change the key to firstname-lastname (lowercase, hyphen). Fill in their details and save. Redeploy to Netlify. Their page is live at utility-direct.com/refer/firstname-lastname.",
+    "affiliateId": "Find this in GHL under Marketing → Affiliates → click the affiliate → copy their Affiliate ID or promo code.",
+    "photo": "Right-click the agent's photo in GHL → Copy image address. Paste that URL here. Leave blank to show initials instead.",
+    "tagline": "Their brokerage or team name."
+  },
+  "brian-force": {
+    "name": "Brian Force",
+    "tagline": "",
+    "photo": "",
+    "affiliateId": "brian_force"
+  },
+  "jesse-showalter": {
+    "name": "Jesse Showalter",
+    "tagline": "",
+    "photo": "https://assets.cdn.filesafe.space/NLQvInIFjzh43cHRr7cH/media/69effea3481c62deba043264.jpeg",
+    "affiliateId": "jesse_showalter"
+  },
+  "nicole-rouseau": {
+    "name": "Nicole Rouseau",
+    "tagline": "",
+    "photo": "https://assets.cdn.filesafe.space/NLQvInIFjzh43cHRr7cH/media/69f954404378192c4eb08a3c.jpeg",
+    "affiliateId": "nicole_rouseau_03727070"
+  },
+  "connie-rodriguez": {
+    "name": "Connie Rodriguez",
+    "tagline": "",
+    "photo": "https://assets.cdn.filesafe.space/NLQvInIFjzh43cHRr7cH/media/69f953cc7167fd9a355ddca3.webp",
+    "affiliateId": "connie_rodriguez_06535561"
+  },
+  "melanie-mulamaba": {
+    "name": "Melanie Mulamaba",
+    "tagline": "",
+    "photo": "https://assets.cdn.filesafe.space/NLQvInIFjzh43cHRr7cH/media/69f95351bd4f9a05d9d151ec.webp",
+    "affiliateId": "melanie_mulamba_4699997484"
+  },
+  "tom-force": {
+    "name": "Tom Force",
+    "tagline": "",
+    "photo": "",
+    "affiliateId": "tom_force_08639663"
+  },
+  "danny-force": {
+    "name": "Danny Force",
+    "tagline": "",
+    "photo": "https://assets.cdn.filesafe.space/NLQvInIFjzh43cHRr7cH/media/69f95465ecdc5eb69991fab6.webp",
+    "affiliateId": "danny_force_07494805"
+  },
+  "cody-storts": {
+    "name": "Cody Storts",
+    "tagline": "",
+    "photo": "",
+    "affiliateId": "cody_storts_6827045176"
+  },
+  "justin-willmon": {
+    "name": "Justin Willmon",
+    "tagline": "",
+    "photo": "",
+    "affiliateId": "justin_willmon_06590458"
+  },
+  "david-betinck": {
+    "name": "David Betinck",
+    "tagline": "",
+    "photo": "https://assets.cdn.filesafe.space/NLQvInIFjzh43cHRr7cH/media/69f954877167fd9a355e03e0.jpeg",
+    "affiliateId": "david_betinck_09080633"
+  },
+  "brittany-stewart": {
+    "name": "Brittany Stewart",
+    "tagline": "",
+    "photo": "https://assets.cdn.filesafe.space/NLQvInIFjzh43cHRr7cH/media/69f95381d38dd61887d74dd5.webp",
+    "affiliateId": "brittany_stewart_05361421"
+  },
+  "christy-amsden": {
+    "name": "Christy Amsden",
+    "tagline": "",
+    "photo": "https://assets.cdn.filesafe.space/NLQvInIFjzh43cHRr7cH/media/69f953ebbd4f9a05d9d171dd.jpeg",
+    "affiliateId": "christy_amsden_06695779"
+  },
+  "matthew-mcdaniel": {
+    "name": "Matthew McDaniel",
+    "tagline": "",
+    "photo": "https://assets.cdn.filesafe.space/NLQvInIFjzh43cHRr7cH/media/69f954ced38dd61887d79269.jpg",
+    "affiliateId": "matthew_mcdaniel_05114355"
+  },
+  "kayti-gage": {
+    "name": "Gage Property Management",
+    "tagline": "",
+    "photo": "https://assets.cdn.filesafe.space/NLQvInIFjzh43cHRr7cH/media/69f954abecdc5eb699920927.webp",
+    "affiliateId": "kayti_gage_07409574"
+  },
+  "ryse-realty-group": {
+    "name": "Ryse Realty Group",
+    "tagline": "",
+    "photo": "https://assets.cdn.filesafe.space/NLQvInIFjzh43cHRr7cH/media/69f2d26c590487fe57eed490.png",
+    "affiliateId": "ryse_realty_group_06934335"
+  },
+  "michael-debacker": {
+    "name": "Michael Debacker",
+    "tagline": "",
+    "photo": "https://assets.cdn.filesafe.space/NLQvInIFjzh43cHRr7cH/media/69f11992dfacb1bd314346c1.webp",
+    "affiliateId": "michael_debacker_08052602"
+  },
+  "nick-good": {
+    "name": "Nick Good",
+    "tagline": "",
+    "photo": "https://assets.cdn.filesafe.space/NLQvInIFjzh43cHRr7cH/media/69f00183d65f43b68c0230bb.webp",
+    "affiliateId": "nick_good_08211909"
+  },
+  "elizabeth-austin": {
+    "name": "Elizabeth Austin",
+    "tagline": "",
+    "photo": "https://assets.cdn.filesafe.space/NLQvInIFjzh43cHRr7cH/media/69fcd6763449086cc17c0264.jpeg",
+    "affiliateId": "elizabeth_austin"
+  },
+  "meah-chatman": {
+    "name": "Meah Chatman",
+    "tagline": "",
+    "photo": "https://assets.cdn.filesafe.space/NLQvInIFjzh43cHRr7cH/media/6a0d1e0c7f724863152a8140.png",
+    "affiliateId": "meah_chatman"
+  }
+}
