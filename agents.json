@@ -27,7 +27,7 @@
     "name": "Melanie Mulamba",
     "tagline": "",
     "photo": "https://assets.cdn.filesafe.space/NLQvInIFjzh43cHRr7cH/media/69f95351bd4f9a05d9d151ec.webp",
-    "affiliateId": "melanie_mulamba_4699997484"
+    "affiliateId": "melanie_mulamba"
   },
   "tom-force": {
     "name": "Tom Force",
@@ -51,7 +51,13 @@
     "name": "Justin Willmon",
     "tagline": "",
     "photo": "",
-    "affiliateId": "justin_willmon_06590458"
+    "affiliateId": "justin_willmon"
+  },
+  "kim-walker": {
+    "name": "Kim Walker",
+    "tagline": "",
+    "photo": "",
+    "affiliateId": "MoveWithKim"
   },
   "david-betinck": {
     "name": "David Betinck",
@@ -125,24 +131,6 @@
     "photo": "https://assets.cdn.filesafe.space/NLQvInIFjzh43cHRr7cH/media/6a2dd2cc8a3c98ce5677d4b5.jpg",
     "affiliateId": "Heather_Rice"
   },
-  "brian-test37": {
-    "name": "Brian Test37",
-    "tagline": "",
-    "photo": "https://services.leadconnectorhq.com/documents/download/sNQUKqHTEGNyTnxkw404",
-    "affiliateId": "brian_test37"
-  },
-  "brian-tes38": {
-    "name": "Brian Tes38",
-    "tagline": "",
-    "photo": "https://services.leadconnectorhq.com/documents/download/xwyWDqpE3LHlZ8a937dl",
-    "affiliateId": "brian_tes38"
-  },
-  "brian-test39": {
-    "name": "Brian Test39",
-    "tagline": "",
-    "photo": "https://services.leadconnectorhq.com/documents/download/xDyttWsVGzwTJBjyWyM1",
-    "affiliateId": "brian_test39"
-  },
   "gabrielle-carlile": {
     "name": "Gabrielle Carlile",
     "tagline": "",
@@ -202,18 +190,6 @@
     "tagline": "",
     "photo": "https://services.leadconnectorhq.com/documents/download/WQH4AshNGUBzEmRzF7J3",
     "affiliateId": "walker_rodriguez"
-  },
-  "brian-test35": {
-    "name": "Brian Test35",
-    "tagline": "",
-    "photo": "",
-    "affiliateId": "brian_test35"
-  },
-  "brian-test36": {
-    "name": "Brian Test36",
-    "tagline": "",
-    "photo": "",
-    "affiliateId": "brian_test36"
   },
   "michael-lawrence": {
     "name": "Michael Lawrence",
@@ -304,12 +280,6 @@
     "tagline": "",
     "photo": "https://services.leadconnectorhq.com/documents/download/Fk80RBMolaP8s0Y0gTLe",
     "affiliateId": "carl_anku"
-  },
-  "aljun-sabalbaro": {
-    "name": "Aljun Sabalbaro",
-    "tagline": "",
-    "photo": "",
-    "affiliateId": "aljun_sabalbaro"
   },
   "monty-dupree": {
     "name": "Monty Dupree",
